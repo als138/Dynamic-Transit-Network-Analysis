@@ -1,0 +1,11 @@
+,0
+num_nodes,2892.0
+num_edges,3475.0
+density,0.0008312629503591295
+num_components,2.0
+size_largest_cc,2671.0
+avg_shortest_path,24.526543524076747
+diameter,94.0
+avg_clustering,0.03741405359662618
+transitivity,0.06448461162677088
+degree_assortativity,0.29580110664891185
